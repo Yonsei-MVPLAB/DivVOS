@@ -1,2 +1,1 @@
-# EMVOS
 ## WIP
